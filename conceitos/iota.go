@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 const {
 	//Com iotas é possivel implementar uma logica
 	//onde cara variável sera atibuido um valor sequencial

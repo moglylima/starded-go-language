@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 const {
 	   = iota
 	KB = 1 << (iota * 10) // 1 << (1 * 10)
