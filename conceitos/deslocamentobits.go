@@ -22,7 +22,6 @@ func main(){
 
 
 
-
 	fmt.Println("Casos de USO")
 	fmt.Println("binary\t\t\t\tdecimal")
 	fmt.Printf("%b\t\t\t", KB)
