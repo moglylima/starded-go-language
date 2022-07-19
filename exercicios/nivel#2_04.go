@@ -7,10 +7,10 @@ import (
 func main() {
 	x := 200
 	fmt.Printf("%d\t%b\t%#x\n", x, x, x)
+	// Deslocando bits para esquerda!
 	y := x << 1
 	fmt.Printf("%d\t%b\t%#x", y, y, y)
 }
-
 
 // Crie um programa que:
 //- Atribua um valor int a uma variável
